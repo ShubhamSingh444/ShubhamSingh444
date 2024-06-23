@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">A passionate DevOps and AWS from Ireland</h3>
+I am <a href="https://www.linkedin.com/in/shubhamsingh44/" target="_blank">Shubham</a>, a QA/DevOps Engineer from <a href="https://en.wikipedia.org/wiki/India" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png" alt="India Flag" height="15" style="vertical-align: middle;"></a> passionate about Cloud, Automation, and DevOps, with over 7 years of professional experience. 🎯
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamsingh444" alt="shubhamsingh444" /></a> </p>
 
 - 🌱 I’m currently learning **AWS, DevOps**
 
@@ -11,24 +8,25 @@
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <a href="https://python.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="90" style="width: auto; height: 60px; margin-right: 10px;">
+        <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="90" style="width: auto; height: 60px; margin-right: 20px;">
     </a>
     <a href="https://www.selenium.dev" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="width: 40px; height: 40px; margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="width: 40px; height: 40px; margin-right: 20px;">
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" height="80" style="width: auto; height: 60px; margin-right: 10px;">
+        <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" height="80" style="width: auto; height: 60px; margin-right: 20px;">
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="width: 40px; height: 40px; margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="width: 40px; height: 40px; margin-right: 20px;">
     </a>
     <a href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="65" style="width: auto; height: 50px; margin-right: 10px;">
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="65" style="width: auto; height: 50px; margin-right: 20px;">
     </a>
     <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" style="width: auto; height: 50px;">
+        <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" style="width: auto; height: 50px; margin-right: 20px;">
     </a>
 </div>
+
 
   
 ### DevOps
@@ -76,7 +74,7 @@
 ### 📫 How to reach me?
 
  - Visit my [Website]() 🌐
- - Connect with me on [LinkedIn](https://linkedin.com/in/shubhamsingh44)) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://linkedin.com/in/shubhamsingh44) 👨🏻‍💻
  - Shoot Me an [Email](mailto:shubham4294singh@gmail.com) 💌
  - Check my articles on Medium
     <a href="https://medium.com/@shubham4294singh" target="_blank">
